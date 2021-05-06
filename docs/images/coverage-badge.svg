@@ -1,9 +1,1 @@
-<svg width="110" height="30" xmlns="http://www.w3.org/2000/svg">
-    <g>
-        <rect id="svg_1" height="30" width="110" y="0" x="0" stroke-width="1.5" stroke="#5d5d5d" fill="#5d5d5d" rx="7" ry="7"/>
-        <rect id="svg_2" height="30" width="44" y="0" x="66" stroke-width="1.5" stroke="#d8604b" fill="#d8604b" rx="7" ry="7"/>
-        <rect id="svg_3" height="30" width="22" y="0" x="64" stroke-width="1.5" stroke="#d8604b" fill="#d8604b"/>
-        <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="14" id="svg_4" y="19.5" x="8" stroke-width="0" stroke="#5d5d5d" fill="#ffffff">Project</text>
-        <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="14" id="svg_5" y="19.5" x="105" stroke-width="0" stroke="#5d5d5d" fill="#ffffff" style="text-anchor: end">9%</text>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="110" height="30"><g><rect id="svg_1" width="110" height="30" x="0" y="0" fill="#5d5d5d" stroke="#5d5d5d" stroke-width="1.5" rx="7" ry="7"/><rect id="svg_2" width="44" height="30" x="66" y="0" fill="#d8604b" stroke="#d8604b" stroke-width="1.5" rx="7" ry="7"/><rect id="svg_3" width="22" height="30" x="64" y="0" fill="#d8604b" stroke="#d8604b" stroke-width="1.5"/><text id="svg_4" x="8" y="19.5" fill="#fff" stroke="#5d5d5d" stroke-width="0" font-family="Helvetica, Arial, sans-serif" font-size="14" text-anchor="start" xml:space="preserve">Project</text><text id="svg_5" x="105" y="19.5" fill="#fff" stroke="#5d5d5d" stroke-width="0" font-family="Helvetica, Arial, sans-serif" font-size="14" text-anchor="start" xml:space="preserve" style="text-anchor:end">9%</text></g></svg>
